@@ -10,6 +10,4 @@ Develop an app to keep track of companies you apply to.
 
 Develop an android app for Augmented Reality. You can point the camera at a scene and maybe it would change the scene according to some parameters
 
-create a bootloader.
-
-Create a very basic Operating System.
+Develop an android app to recognize basic objects when the camera is pointed at them. Do this in real time.
